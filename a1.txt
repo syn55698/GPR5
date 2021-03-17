@@ -1,3 +1,4 @@
 ve
 local1
 local2
+use local
